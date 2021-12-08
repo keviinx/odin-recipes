@@ -1,0 +1,23 @@
+* {
+    font-family: monospace;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-size: 72px;
+    text-align: center;
+    padding: 10px;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 1px solid black;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+}
